@@ -8,4 +8,4 @@ My efforts successfully translate business requirements into solutions, resultin
 
 With a robust background in computer science and tech experience, I'll bring `extensive results` and expertise in IT section.
 
-(My Personality : Skills & Responsibility)
+(My Personality = Skills * Responsibility)
