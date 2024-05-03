@@ -1,11 +1,5 @@
-Welcome 🤝
+Software Engineer, 11 years
 
-With over `7 years` of experience in `Mobile DevOps`,
+Hello, Wish you to get good thoughts while viewing my words.
+I have over 10+ years of experience in Software Technology through software idealize, design, development and maintain. I honed various Programming Languages such as Assembly, C, C++, Micro C, Java, C#, HTML, CSS, JavaScript, PHP, SQL, VB Script, Python, TypeScript, Ruby, Swift, Go and Solidity, especially Java and Python, and grabed their pros and cons.
 
-Honed my skills in `ui-ux design`, `performance optimization` and `project leadership`.
-
-My efforts successfully translate business requirements into solutions, resulting `more effective` and `user-loved` mobile apps.
-
-With a robust background in computer science and tech experience, I'll bring `extensive results` and expertise in IT section.
-
-(my personality = skills * responsibility)
